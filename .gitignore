@@ -63,3 +63,6 @@ fastlane/screenshots
 Documentation/docs
 /Fluor/Sparkle.framework
 /Fluor/Sparkle.framework.dSYM
+
+/Fluor.xcodeproj/xcuserdata
+/Fluor.xcodeproj/project.xcworkspace
